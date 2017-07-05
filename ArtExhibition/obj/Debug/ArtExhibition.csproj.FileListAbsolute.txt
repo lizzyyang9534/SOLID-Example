@@ -1,0 +1,15 @@
+D:\Projects\DIP\DIP\bin\Debug\ArtExhibition.exe.config
+D:\Projects\DIP\DIP\bin\Debug\ArtExhibition.exe
+D:\Projects\DIP\DIP\bin\Debug\ArtExhibition.pdb
+D:\Projects\DIP\DIP\obj\Debug\ArtExhibition.csprojResolveAssemblyReference.cache
+D:\Projects\DIP\DIP\obj\Debug\ArtExhibition.exe
+D:\Projects\DIP\DIP\obj\Debug\ArtExhibition.pdb
+D:\Projects\ArtExhibition\DIP\bin\Debug\ArtExhibition.exe.config
+D:\Projects\ArtExhibition\DIP\obj\Debug\ArtExhibition.exe
+D:\Projects\ArtExhibition\DIP\obj\Debug\ArtExhibition.pdb
+D:\Projects\ArtExhibition\ArtExhibition\bin\Debug\ArtExhibition.exe.config
+D:\Projects\ArtExhibition\ArtExhibition\bin\Debug\ArtExhibition.exe
+D:\Projects\ArtExhibition\ArtExhibition\bin\Debug\ArtExhibition.pdb
+D:\Projects\ArtExhibition\ArtExhibition\obj\Debug\ArtExhibition.csprojResolveAssemblyReference.cache
+D:\Projects\ArtExhibition\ArtExhibition\obj\Debug\ArtExhibition.exe
+D:\Projects\ArtExhibition\ArtExhibition\obj\Debug\ArtExhibition.pdb

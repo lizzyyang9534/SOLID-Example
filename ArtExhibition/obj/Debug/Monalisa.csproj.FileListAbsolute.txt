@@ -1,0 +1,7 @@
+D:\Projects\DIP\DIP\bin\Debug\MonaLisa.exe.config
+D:\Projects\DIP\DIP\bin\Debug\MonaLisa.exe
+D:\Projects\DIP\DIP\bin\Debug\MonaLisa.pdb
+D:\Projects\DIP\DIP\obj\Debug\Monalisa.csprojResolveAssemblyReference.cache
+D:\Projects\DIP\DIP\obj\Debug\MonaLisa.exe
+D:\Projects\DIP\DIP\obj\Debug\MonaLisa.pdb
+D:\Projects\DIP\DIP\bin\Debug\ArtExhibition.exe.config
